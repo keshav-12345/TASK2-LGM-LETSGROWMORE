@@ -1,0 +1,12 @@
+.container{
+    
+    width: 100%;
+    background: rgba(0, 0, 0, 0.486);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 40px 20px;
+  
+
+}

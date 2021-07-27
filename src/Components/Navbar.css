@@ -1,0 +1,32 @@
+.navbar{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+    li{
+        list-style-type: none;
+    }
+
+h2{
+    margin-left: 3%;
+    box-shadow: 5px 5px 10px rgb(80, 80, 80);
+}
+button{
+    background-color:rgb(169, 172, 172);
+    color: rgb(22, 22, 22);
+    box-shadow: 5px 10px 10px rgb(92, 91, 91);
+    font-weight: 700;
+    width: 100px;
+    height: 35px;
+    cursor: pointer;
+    margin-right: 8%;
+
+}
+button:hover{
+    background-color: rgb(252, 252, 252);
+    color:black;
+    transition: 0.7s ease-in-out;
+}

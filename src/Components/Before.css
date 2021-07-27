@@ -1,0 +1,25 @@
+.before{
+    width: 100%;
+    /* background: rgba(255, 255, 255, 0.1); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 100vh;
+    background-image: url("https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    color: rgb(24, 23, 23);
+    font-size: 100px;
+    margin-top: 8%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20%;
+}
