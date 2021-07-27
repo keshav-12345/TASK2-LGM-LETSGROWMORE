@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TASK2-LGM-LETSGROWMORE/static/css/main.94cb369e.chunk.css",
+    "main.js": "/TASK2-LGM-LETSGROWMORE/static/js/main.f77ee4f7.chunk.js",
+    "main.js.map": "/TASK2-LGM-LETSGROWMORE/static/js/main.f77ee4f7.chunk.js.map",
+    "runtime-main.js": "/TASK2-LGM-LETSGROWMORE/static/js/runtime-main.1fbbfcde.js",
+    "runtime-main.js.map": "/TASK2-LGM-LETSGROWMORE/static/js/runtime-main.1fbbfcde.js.map",
+    "static/js/2.28f7e863.chunk.js": "/TASK2-LGM-LETSGROWMORE/static/js/2.28f7e863.chunk.js",
+    "static/js/2.28f7e863.chunk.js.map": "/TASK2-LGM-LETSGROWMORE/static/js/2.28f7e863.chunk.js.map",
+    "static/js/3.1d6c6185.chunk.js": "/TASK2-LGM-LETSGROWMORE/static/js/3.1d6c6185.chunk.js",
+    "static/js/3.1d6c6185.chunk.js.map": "/TASK2-LGM-LETSGROWMORE/static/js/3.1d6c6185.chunk.js.map",
+    "index.html": "/TASK2-LGM-LETSGROWMORE/index.html",
+    "static/css/main.94cb369e.chunk.css.map": "/TASK2-LGM-LETSGROWMORE/static/css/main.94cb369e.chunk.css.map",
+    "static/js/2.28f7e863.chunk.js.LICENSE.txt": "/TASK2-LGM-LETSGROWMORE/static/js/2.28f7e863.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fbbfcde.js",
+    "static/js/2.28f7e863.chunk.js",
+    "static/css/main.94cb369e.chunk.css",
+    "static/js/main.f77ee4f7.chunk.js"
+  ]
+}
